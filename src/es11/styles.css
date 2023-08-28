@@ -1,0 +1,19 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background: cadetblue;
+}
+button{
+    height: 50px;
+    width: 100px;
+    border: 1px;
+    border-radius: 20px;
+    color: aqua;
+    background: blue;
+    cursor: pointer;
+}
+button:hover{
+    color: blue;
+    background:  aqua;
+}
